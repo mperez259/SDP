@@ -36,6 +36,7 @@ First and foremost, this project is for learning linux, K3S, K8S, and Docker. Ho
 
 
 3/18/25: Working on containeriizing code for deployment and implementing some power over ethernet (PoE) for a more professional setup.
-        Going to test out K8S and K3s to see how much compute times differ, if at all. 
+        I plan on testing k8s and k3s individually to investigate computing time differences, if there are any. In theory, k8s uses more computing resources; 
+        therefore it should take longer to perform tasks. 
 
 
