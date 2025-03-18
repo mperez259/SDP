@@ -9,7 +9,7 @@ clusteredSBC
 
   -enable control groups for containerized environments
 
-  -do this by through nano /boot/firmware/cmdline.txt and add "cgroup_memory=1 cgroup_enable=memory" save/exit, and proceed to (curl -sfL https://get.k3s.io | sh -)
+  -do this through nano /boot/firmware/cmdline.txt and add "cgroup_memory=1 cgroup_enable=memory" save/exit, and proceed to (curl -sfL https://get.k3s.io | sh -)
 
   -get node-token with (/var/lib/rancher/k3s/server/node-token)
 
