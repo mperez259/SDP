@@ -36,5 +36,6 @@ First and foremost, this project is for learning linux, K3S, K8S, and Docker. Ho
 
 
 3/18/25: Working on containeriizing code for deployment and implementing some power over ethernet (PoE) for a more professional setup.
+        Going to test out K8S and K3s to see how much compute times differ, if at all. 
 
 
