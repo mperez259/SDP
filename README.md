@@ -1,7 +1,7 @@
 # SDP
 clusteredSBC
 
-First and foremost, this project is for learning linux, K3S, K8S, and Docker. Hopefully I can turn it into something useful.
+Purpose: First and foremost, this project is for learning linux, K3S, K8S, and Docker. Hopefully I can turn it into something useful.
 
 -Acquired Rpi-5's for clustering through Kubernetes K3S on standard 64-bit OS.
 
