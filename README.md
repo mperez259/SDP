@@ -33,3 +33,6 @@ clusteredSBC
 <img width="332" alt="Screenshot 2025-03-18 at 12 39 08 AM" src="https://github.com/user-attachments/assets/e95f1494-da9d-4224-8c68-1728d7d57601" />
 
 
+3/18/25: Working on containeriizing code for deployment and implementing some power over ethernet (PoE) for a more professional setup.
+
+
